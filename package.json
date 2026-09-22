@@ -1,0 +1,11 @@
+{
+  "name": "lean-stack-playbook",
+  "version": "1.0.0",
+  "description": "Companion code for The Lean Stack Playbook — vanilla JS replacements for common npm packages.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/index.test.js"
+  },
+  "author": "Codecraftie Solutions",
+  "license": "MIT"
+}
