@@ -1,4 +1,4 @@
-// Chapter 7: Forms & Validation — vanilla replacement for Yup/Formik validation
+// Chapter 7:: Forms & Validation — vanilla replacement for Yup/Formik validation
 
 export function validate(values, rules) {
   const errors = {};
